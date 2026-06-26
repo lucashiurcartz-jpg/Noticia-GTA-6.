@@ -1,0 +1,45 @@
+body{
+    margin:0;
+    font-family:Arial, Helvetica, sans-serif;
+    background:#111;
+    color:white;
+}
+
+header{
+    background:#ff6600;
+    text-align:center;
+    padding:20px;
+}
+
+.container{
+    max-width:800px;
+    margin:auto;
+    padding:20px;
+    text-align:center;
+}
+
+img{
+    width:250px;
+    margin:20px 0;
+}
+
+button{
+    padding:12px 25px;
+    background:#ff6600;
+    border:none;
+    color:white;
+    font-size:18px;
+    border-radius:8px;
+    cursor:pointer;
+    transition:.3s;
+}
+
+button:hover{
+    background:#ff8533;
+}
+
+#mensagem{
+    margin-top:20px;
+    font-size:18px;
+    color:#00ff99;
+}
